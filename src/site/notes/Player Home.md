@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/player-home/","tags":["gardenEntry"]}
 ---
 
-```
----
-dg-home: true
-dg-publish: true
----
-```
+
 
 
 [[Barovia Locations.pdf]]
