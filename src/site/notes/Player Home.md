@@ -2,20 +2,13 @@
 {"dg-publish":true,"permalink":"/Player Home/","tags":["gardenEntry"]}
 ---
 
-obsidian://open?vault=Ambryn&file=Obsidian%2FImages%2F20230823_195912850_iOS.png
-
-
-For markdown images, use ![AltText|100x100](https://bnz06pap002files.storage.live.com/y4m3a_w3rELzTeM8JygEsN6BXLemZiQXlXTRPJ1EsX5weWkwhotpZet9VMTViYWgcbJm_HJa6JJHpjH4qPkCpNI3VXOFGgPnGbrPaAmkhQOpnkMukMVrvydF8nhLg-7NEkc7bNbGXCRFi7ZDTk4uQajGetshsQwmGRwzyd9PDLCZQHUh0pqzs-yjurSpEHzwmddKaHdKaQGoXYuBa7_Pqjn7_k3zeD_KzoZfDASj0bX-KI?encodeFailures=1&width=219&height=219)
-
-For embeds, use ![[z_Assets/Misc/ImagePlaceholder.png\|100x100]]
-
-To have the image scale according to its aspect ratio, omit the height ![[z_Assets/Misc/ImagePlaceholder.png\|200]]
 
 [[Characters/Stonephalanx Characters/Bailor\|Bailor]]
 
+[[Rudy.png]]
+
 ---
-dg-publish: true
----
+
 
 ```leaflet  
 ### Tutorial: [https://youtu.be/54EyMzJP5DU](https://youtu.be/54EyMzJP5DU)  
