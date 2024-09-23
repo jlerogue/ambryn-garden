@@ -11,7 +11,7 @@ For embeds, use ![[z_Assets/Misc/ImagePlaceholder.png\|100x100]]
 
 To have the image scale according to its aspect ratio, omit the height ![[z_Assets/Misc/ImagePlaceholder.png\|200]]
 
-
+[[Characters/Stonephalanx Characters/Bailor\|Bailor]]
 
 
 ```leaflet  
