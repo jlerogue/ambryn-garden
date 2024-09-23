@@ -5,7 +5,11 @@
 
 [[Characters/Stonephalanx Characters/Bailor\|Bailor]]
 
-[[Rudy.png]]
+[[Socket.png]]
+
+[[Characters/Kun Revantum Characters/Asher Rockseeker\|Asher Rockseeker]]
+
+
 
 ---
 
