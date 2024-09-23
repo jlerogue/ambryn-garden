@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-obsidian/templates/z-templates/leaflet-maps/ambryn-continent-map/"}
+{"dg-publish":true,"permalink":"/Z.Obsidian/Templates/z_Templates/Leaflet Maps/Ambryn Continent Map/"}
 ---
 
 

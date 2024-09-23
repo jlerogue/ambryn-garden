@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/regions/kun-revantum/kun-revantum-settlements/revantum-nova/revantum-nova/"}
+{"dg-publish":true,"permalink":"/Locations/Regions/Kun Revantum/Kun Revantum Settlements/Revantum Nova/Revantum Nova/"}
 ---
 
 Revantum Nova is a tiered city where the wealthiest people live at the top. The city has developed from humble beginnings over the course of about 500 years. Advancements in arcane studies, proximity to dragonshard mines, and its location on the Amorant Confluence where the Malico and Kompatica rivers meet has given the city state an edge up over the other nations in Ambr’yn. Four lightning rails emerge from the city thanks to the efforts of House West (which only has four remaining members at the moment.) Conflicts with the city state of Karn, which uses necromancy as a cultural practice, has led to a shutdown of the West by West Line.

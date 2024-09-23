@@ -1,12 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/player-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Player Home/","tags":["gardenEntry"]}
 ---
 
 
 
-[[Characters/Stonephalanx Characters/Bailor\|Bailor]]
-
-[[Characters/Kun Revantum Characters/Rudy\|Rudy]]
 
 
 ```leaflet  

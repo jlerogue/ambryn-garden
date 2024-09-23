@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/stonephalanx-characters/bailor/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Characters/Stonephalanx Characters/Bailor/","tags":["gardenEntry"]}
 ---
 
 ![Z.Obsidian/Files/Attachments/Bailor.png](/img/user/Z.Obsidian/Files/Attachments/Bailor.png)
