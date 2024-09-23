@@ -4,12 +4,10 @@
 
 
 
+[[Characters/Stonephalanx Characters/Bailor\|Bailor]]
 
-[[Barovia Locations.pdf]]
+[[Characters/Kun Revantum Characters/Rudy\|Rudy]]
 
-[[Rudy.png]]
-
-[[2.Campaigns/Fortunes Hollow Campaign/Session Four\|Session Four]]
 
 ```leaflet  
 
