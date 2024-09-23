@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/Z.Player Characters/Myrra Godendar/"}
+---
+
+![Pasted image 20240920224445.png](/img/user/Z.Obsidian/Files/Attachments/Pasted%20image%2020240920224445.png)![Pasted image 20240920224450.png](/img/user/Z.Obsidian/Files/Attachments/Pasted%20image%2020240920224450.png)![Pasted image 20240920224457.png](/img/user/Z.Obsidian/Files/Attachments/Pasted%20image%2020240920224457.png)![Pasted image 20240920224505.png](/img/user/Z.Obsidian/Files/Attachments/Pasted%20image%2020240920224505.png)![Pasted image 20240920224523.png](/img/user/Z.Obsidian/Files/Attachments/Pasted%20image%2020240920224523.png)![Pasted image 20240920224512.png](/img/user/Z.Obsidian/Files/Attachments/Pasted%20image%2020240920224512.png)![Pasted image 20240920224532.png](/img/user/Z.Obsidian/Files/Attachments/Pasted%20image%2020240920224532.png)
