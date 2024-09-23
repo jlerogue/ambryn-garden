@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/1.Ambryn/Holidays and Celebrations/Festival of the Enchanted Bannock Banner/"}
+---
+
+[[1.Ambryn/Holidays and Celebrations/Festival of the Enchanted Bannock Banner\|Festival of the Enchanted Bannock Banner]] is a holiday celebrating the founding of the Kingdom of the [[Locations/Regions/Banzi Hilands/Stonephalanx Islands\|Stonephalanx Islands]], in particular the treaties and pacts between the early settlers, the fey, and the dragons of the Pre Curse Era. It is named for the bread (bannock) they broke together. It was the first time the Fey of the land had experienced this simple recipe from an agrarian society, and they regarded it as something extraordinary. They crafted a banner to commemorate the day, and this banner has been paraded throughout the lands every year since.
+
+During the festival, inhabitants of the Stonephalanx Islands travel to various sites of historical and spiritual significance alongside the banner. This includes the home of the Fadirson boys, Dragonroost Ranch, which is the only place where Oxdrake can be raised thanks to ancestral knowledge as well as seeds passed down through generations of their family that facilitate the growth of [[1.Ambryn/Flora/Shimmerleaf\|Shimmerleaf]] crop, which is necessary to raise the [[Creatures/Oxdrake\|Oxdrake]] into adulthood.

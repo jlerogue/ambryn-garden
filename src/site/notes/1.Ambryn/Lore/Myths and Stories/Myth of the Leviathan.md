@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/1.Ambryn/Lore/Myths and Stories/Myth of the Leviathan/"}
+---
+
+*The spirit of the deep, traveler of seas and stars, said to be charged with preserving life.*
+
+**Here are the bare details of the story surrounding the Leviathan, a whale that fell from the heavens in [[Timeline/0-637 BC\|0-637 BC]]**.
+- According to Triton stories, it would travel the astral sea monitoring life from the heavens so that it could one day be an Ark unto Salvation, ferrying folk from the end of one world to a new life on another. • It fell from the heavens one day. Its resonant cries leveled mountains into plateaus. Its collision with the sea reshaped the coasts and flooded a great civilization of Island-dwelling Loxodon, which is why there are so few of them today. • It sank to the bottom of the ocean at a location that is now known as Tritonlocke torrent. As the story goes, the being’s decaying flesh brought a new form of magic to the world, restorative in nature, a gift to heal and to ward off death, but also a power that could be abused to defile the tranquility of the afterlife. • Its bones turned to a structure of crystal and amber. This is a holy site for Triton and a place where magic is made more potent, and some unthinkable magics are rendered possible if woven by a powerful channeler. • And finally, its soul, which spread itself across Ambr’yn, becoming new life as the flower we now know as the Lotus.
